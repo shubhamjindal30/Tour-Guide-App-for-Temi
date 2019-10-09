@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="enter_location">Please enter a location name</string>
+    <string name="save_location">Save Location</string>
+    <string name="go_to_location">Please enter location to go to</string>
+    <string name="go_to">Go to</string>
+    <string name="enter_speech">Please enter something to say</string>
+    <string name="speak">Speak</string>
+    <string name="follow_me">Follow Me</string>
+    <string name="saved_locations">Saved Locations</string>
+    <string name="show_contacts">Show Contacts</string>
+    <string name="stop_follow">Stop Follow</string>
+    <string name="start_tour">Start Tour</string>
+    <string name="continue_tour">Continue Tour</string>
+    <string name="end_tour">End Tour</string>
+
+
+</resources>
